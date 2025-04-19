@@ -80,7 +80,9 @@ Note: The hosted site is no longer available, but design PDFs are provided below
   - Computer Programming Certificate  
   - Graphic Design Fundamentals Certificate  
   - Web Frontend Certificate  
-  - [See a list of all relevant classes](allCourses.md)
+
+[See a list of all relevant classes](allCourses.md)
+
 
 
 ## 📬 Contact
