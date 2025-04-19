@@ -15,6 +15,12 @@ I’m a passionate and curious learner with a growing skill set in web design, w
 
 ## 🚀 Projects
 
+### 🌐 Website Maintenance – WordPress Site
+
+- **Description:** Help maintain a WordPress site for a small business, including content updates, plugin management, and basic SEO tasks.
+- **Skills Used:** WordPress, CSS, Content Management, Plugin Updates
+- **Role:** Website Maintainer
+
 ### 📝 Activity Planner Web App
 
 - **Description:** A front-end app for managing user-submitted activities, with different views for users and managers. Includes a weather feature for viewing forecasts based on city, state, and date.
@@ -69,14 +75,13 @@ Note: The hosted site is no longer available, but design PDFs are provided below
 
 ## 🎓 Education & Training
 
-- **BYUI** — Bachelors of Applied Technology, Fall 2025
-  - Web Development Certificate
-  - Computer Programming Certificate
-  - Graphic Design Fundamentals Certificate
+- **BYUI** — Bachelors of Applied Technology, Fall 2025  
+  - Web Development Certificate  
+  - Computer Programming Certificate  
+  - Graphic Design Fundamentals Certificate  
   - Web Frontend Certificate  
-
-
   - [See a list of all relevant classes](allCourses.md)
+
 
 ## 📬 Contact
 
