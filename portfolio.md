@@ -81,7 +81,8 @@ Note: The hosted site is no longer available, but design PDFs are provided below
   - Graphic Design Fundamentals Certificate  
   - Web Frontend Certificate  
 
-    [See a list of all relevant classes](allCourses.md)
+  [View All Courses](allCourses.md)
+
 
 
 ## 📬 Contact
