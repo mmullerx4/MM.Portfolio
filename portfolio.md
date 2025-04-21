@@ -1,4 +1,4 @@
-# Melinda S. Muller
+# Melinda Muller
 
 ## 👋 About Me
 
@@ -13,13 +13,15 @@ I’m a passionate and curious learner with a growing skill set in web design, w
 - **Other:**  Responsive Design, UI/UX Principles, Basic experience with REST APIs
 - **Soft Skills:** Curious, steady learner, and committed to building lasting knowledge across different technologies.
 
+
 ## 🚀 Projects
 
 ### 🌐 Website Maintenance – WordPress Site
 
-- **Description:** Help maintain a WordPress site for a small business, including content updates, plugin management, and basic SEO tasks.
-- **Skills Used:** WordPress, CSS, Content Management, Plugin Updates
-- **Role:** Website Maintainer
+- **Description:** Initially offered temporary support to help a friend get a basic WordPress site up and running during a busy school semester for me. I created the original design and layout, including prototypes in Adobe XD. Another designer was later brought on to finish the project, but after their involvement ended, I stepped back in to assist with ongoing maintenance. I currently help with content updates, plugin management, and basic SEO tasks as needed.
+- **Skills Used:** WordPress, Adobe XD, CSS, Content Management, Plugin Updates, Basic SEO
+- **Role:** Website Designer (Initial Design), Supportive Site Maintainer
+- **Site:** [ocimeaelavenderfarm.com](https://ocimeaelavenderfarm.com/)
 
 ### 📝 Activity Planner Web App
 
