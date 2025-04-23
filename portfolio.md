@@ -31,7 +31,7 @@ I’m a passionate and curious learner with a growing skill set in web design, d
 - **Role:** Frontend Developer
 - **GitHub:** [View Repository](https://github.com/mmullerx4/vacationPlanner)
 
-### 📓 Journal App (Class Project)
+### 📓 World Appreciation Journal App (Class Project)
 
 -  **Description:** A web app that allows users to write and save journal entries locally in their browser. Entries are organized by date and saved with localStorage for easy access.
 - **Skills Used:** JavaScript, localStorage, DOM Manipulation, HTML/CSS
@@ -43,7 +43,7 @@ I’m a passionate and curious learner with a growing skill set in web design, d
 - **Description:** Showcases continued growth in both design and development.
 - **Skills Used:** Markdown, Git, WordPress (coming), HTML/CSS (coming)
 - **Role:** Solo project
-- **Links:** [View Repository](https://github.com/mmullerx4/portfolio)
+- **Links:** [View this Repository](https://github.com/mmullerx4/MM.Portfolio)
 
 
 ## 🎨 Design Showcase
