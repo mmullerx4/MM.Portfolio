@@ -19,7 +19,7 @@
 - Web Backend Development  
 - Web Frontend Development I  
 - Web Frontend Developemnt II  
-- Web Full-Stack Development  
+- Web Full-Stack Development (Angular, NodeJS, Typescript, MongoDB)
 - Web Services (CSE 341) 
 
 - [For more information on classes](https://www.byui.edu/online-courses/online-course-list) 

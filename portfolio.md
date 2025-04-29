@@ -1,6 +1,6 @@
 # Melinda Muller
 
-## 👋 About Me
+## About Me
 
 I’m a passionate and curious learner with a growing skill set in web design, development, and app creation. My original focus was on design, but I’ve become increasingly interested in the technical side of development. I’m seeking an internship where I can apply and grow my skills through real-world, user-centered projects.
 
@@ -33,9 +33,9 @@ I’m a passionate and curious learner with a growing skill set in web design, d
 
 ### 📓 World Appreciation Journal App (Class Project)
 
--  **Description:** A web app that allows users to write and save journal entries locally in their browser. Entries are organized by date and saved with localStorage for easy access.
-- **Skills Used:** JavaScript, localStorage, DOM Manipulation, HTML/CSS
-- **Role:** Frontend Developer
+- **Description:** A full-stack web app built with Angular that allows users to write, save, and organize journal entries by date. The project emphasized understanding component-based architecture and backend integration.
+- **Skills Used:** Angular, TypeScript, RESTful APIs, HTML/CSS, Full-Stack Concepts
+- **Role:** Full-Stack Developer
 - **GitHub:** [View Repository](https://github.com/mmullerx4/WAJ) 
 
 ### 💼 Personal Portfolio (_In Progress_)
