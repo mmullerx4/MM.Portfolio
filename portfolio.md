@@ -54,9 +54,9 @@ I’m a passionate and curious learner with a growing skill set in web design, d
 - **Description:** Designed a fictional county government website in a multi-week UX design course. Delivered a fully developed homepage, three complete subpages, and a fourth fully designed page accessible via the footer.
 - **Process:** Documented design decisions and weekly progress in InDesign, highlighting user-centered workflows and iteration based on feedback.
 - **Tools:** Figma, InDesign
-- **Featured Pages (Full View):** Home, Building Permits, Driver's Permits, Voter Information, Photo Gallery (footer).  
+- **Desktop View:** Featured pages include Home, Building Permits, Driver's Permits, Voter Information, Photo Gallery (footer).  
 [Figma Prototype – Full View](https://www.figma.com/proto/plw3q1g9pg5lTNkfEct8cl/Loupe?node-id=88-171...)
-- **Mobile View:**  Featured pages: Home, All Permits, DMV, Voter Information, Photo Gallery (footer).  
+- **Mobile View:**  Featured pages include Home, All Permits, DMV, Voter Information, Photo Gallery (footer).  
 [Figma Prototype – Mobile View](https://www.figma.com/proto/plw3q1g9pg5lTNkfEct8cl/Loupe?node-id=87-141...)
 
 ### 🛝 Cranbrook Play and Learn (Class Project – Choose Your Own Business)
