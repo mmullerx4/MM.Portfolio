@@ -11,8 +11,8 @@ I’m a passionate and curious learner with a growing skill set in web design, d
 - **Frameworks:** Angular, Node.js, Express
 - **Databases:** MongoDB, MySQL
 - **Tools & Platforms:** Git, GitHub, Vite, VS Code, Adobe Creative Cloud, WordPress
-- **Other:**  Responsive Design, UI/UX Principles, REST APIs (Basic)
-- **Soft Skills:** Curious, steady learner, and committed to building lasting knowledge across different technologies.
+- **Other Skills:**  Responsive Design, UI/UX Principles, REST APIs (Basic)
+- **Soft Skills:** Curious, steady learner committed to building lasting knowledge across different technologies.
 
 
 ## 🚀 Projects
@@ -21,17 +21,17 @@ I’m a passionate and curious learner with a growing skill set in web design, d
 
 - **Description:** I initially provided temporary support to help a friend set up a basic WordPress site during a busy school semester. I created the original design and layout, including prototypes in Adobe XD. Another designer later took over the project, and after their involvement ended, I resumed helping with site maintenance. I currently help with content updates, plugin management, and basic SEO tasks as needed.
 - **Skills Used:** WordPress, Adobe XD, CSS, Content Management, Plugin Updates, Basic SEO
-- **Role:** Initial Designer, Supportive Site Maintainer
+- **Role:** Initial Designer, Site Maintainer
 - **Site:** [OcimeaeLavenderFarm.com](https://ocimeaelavenderfarm.com/)
 
-### 📝 Activity Planner Web App (Class Project)
+### 📝 Activity Planner Web App (Class Project - Create an App)
 
-- **Description:** A front-end web app for managing user-submitted activities, with distinct views for users and managers. It also includes a weather feature that allows users to view forecasts based on city, state, and date.
+- **Description:** A front-end web app for managing user-submitted activities, with distinct views for users and managers. It also includes a Weather feature that allows users to view forecasts based on city, state, and date.
 - **Skills Used:** JavaScript Modules, DOM Manipulation, localStorage, Modals, API Fetch
-- **Role:** Frontend Developer
+- **Role:** Front-end Developer
 - **GitHub:** [View Repository](https://github.com/mmullerx4/vacationPlanner)
 
-### 📓 World Appreciation Journal App (Class Project)
+### 📓 World Appreciation Journal App (Class Project - Use Angular)
 
 - **Description:** A full-stack web app built with Angular that allows users to write, save, and organize journal entries by date. The project emphasized understanding component-based architecture and backend integration.
 - **Skills Used:** Angular, TypeScript, RESTful APIs, HTML/CSS, Full-Stack Concepts
@@ -42,7 +42,7 @@ I’m a passionate and curious learner with a growing skill set in web design, d
 
 - **Description:** Showcases continued growth in both design and development.
 - **Skills Used:** Markdown, Git, WordPress (coming), HTML/CSS (coming)
-- **Role:** Solo project
+- **Role:** Solo Project
 - **Links:** [View this Repository](https://github.com/mmullerx4/MM.Portfolio)
 
 
@@ -71,7 +71,7 @@ I’m a passionate and curious learner with a growing skill set in web design, d
 
 ### 🌿 Santa's Friends Employment (Class Project – Fictional Cause)
 
-- **Description:** Designed a one page design for a fictional cause. This creative and slightly zany fictional cause was designed to showcase originality and design flexibility. Prototypes were created in **Adobe XD** for both large screen and mobile. The final site was built in **WordPress**, with all **styling done by hand-coded CSS** (use of Divi was allowed only for structure, not for styling).  
+- **Description:** Designed a one page design for a fictional cause. This creative and slightly zany fictional cause was designed to showcase originality and design flexibility. Prototypes were created in **Adobe XD** for both large screen and mobile. Built in WordPress using Divi for layout, with all custom styling done via hand-coded CSS..  
 _Note: The hosted site is no longer available, but design PDFs are provided below._
 - **Tools:** Adobe XD → WordPress (Divi)  
 - **Output:** Large screen and mobile layouts  
@@ -81,11 +81,11 @@ _Note: The hosted site is no longer available, but design PDFs are provided belo
 
 ## 🎓 Education & Training
 
-- **BYUI** — Bachelor of Applied Technology (Expected Fall 2025) 
+- **BYUI**: Bachelor of Applied Technology (Expected Fall 2025) 
   - Web Development Certificate  
   - Computer Programming Certificate  
   - Graphic Design Fundamentals Certificate  
-  - Web Frontend Certificate  
+  - Web Front-end Certificate  
 
   [View All Courses](allCourses.md)
 
